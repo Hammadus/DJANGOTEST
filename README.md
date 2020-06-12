@@ -1,1 +1,5 @@
-This so far is just an example that I am following along with to get familiar with the Django framework, the videos I have been following along are by the you-tuber Corey Schafer and all credit is due to him. The intention is to create my own site which I already have an idea for. Perhaps it is best no to speak too soon, hopefully the next commit after finishing this example will be a full fledged website. 
+#Django Framwork Warmup
+##Motivation
+###For the sake of familiarizing myself with Django I am following along
+###with a youtube introducotry playlist in the hopes of publishing my own 
+###website to showcase my projects instead of here. 
